@@ -13,7 +13,6 @@ Repo for the `GitHub Actions Fundamentals` training.
 - Understand the different hosting options for __runners__
 - Use __Secrets__ and __Environments__ for staged deployments
 - Workflow templates and __reusable workflows__
-- Test
 
 ## Getting ready
 
